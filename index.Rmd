@@ -1,8 +1,10 @@
 ---
-title       : Add DeckJS Extension
+title       : The Commishs Cup
 author      : Nathan Wells
 framework   : deckjs
 mode        : selfcontained
+github:
+
 ---
 
 ## Results of Day 1
